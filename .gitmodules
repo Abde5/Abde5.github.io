@@ -1,0 +1,3 @@
+[submodule "cg18"]
+	path = cg18
+	url = git@github.com:Abde5/infof420-notes.git
